@@ -1,7 +1,7 @@
-version="1.0"
+version="1.1"
 tags={
 	"Graphics"
 	"Map"
 }
 name="Map Font Morris Roman"
-supported_version="1.12.5"
+supported_version="1.14.2.2"
